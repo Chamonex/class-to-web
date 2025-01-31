@@ -43,6 +43,8 @@ Firebase Storage (para projetos menores)
 
 ## Decision
 
+Comecei a fazer o projeto com Node e Express.
+
 ## Consequences
 
 ## Alternatives Considered
