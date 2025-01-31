@@ -19,13 +19,10 @@ Inicialmente, penso nos seguintes componentes para a aplicação:
         3. Servidor
 
 2. Aplicação de servidor que importe os arquivos enviados e envie para uma aplicação ORC para extrair o texto dos arquivos.
-    - ORC: Inicialmente pensando no [Google Cloud Vision API](https://cloud.google.com/vision/docs?hl=pt-br)
+   - ORC: Inicialmente pensando no [Google Cloud Vision API](https://cloud.google.com/vision/docs?hl=pt-br)
 
 ## Consequences
-Describe the consequences of the decision. This includes both positive and negative effects, as well as any potential risks or trade-offs.
 
 ## Alternatives Considered
-List any alternative solutions that were considered and explain why they were not chosen.
 
 ## References
-Include any references or links to relevant documents, discussions, or other resources.
