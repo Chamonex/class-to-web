@@ -8,5 +8,12 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "entry point": "index.js"
+  "entry point": "index.js",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "install": "^0.13.0",
+    "multer": "^1.4.5-lts.1",
+    "npm": "^11.1.0"
+  }
 }

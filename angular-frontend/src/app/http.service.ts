@@ -1,12 +1,15 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
 
-@Injectable({providedIn: 'root'})
-export class ConfigService {
-  constructor(private http: HttpClient) {
+@Injectable({ providedIn: 'root' })
+export class HttpService {
+  constructor(private http: HttpClient) { }
+
+  uploadFile(formData: FormData) {
+    return this.http.post('http://localhost:3000', formData);
   }
-  test() {
+
+  testing() {
     return this.http.get('http://localhost:3000');
   }
 }

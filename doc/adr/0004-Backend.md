@@ -45,6 +45,8 @@ Firebase Storage (para projetos menores)
 
 Comecei a fazer o projeto com Node e Express.
 
+Vou utilizar [multer middleware](https://expressjs.com/en/resources/middleware/multer.html) para lidar com upload de arquivos
+
 ## Consequences
 
 ## Alternatives Considered
