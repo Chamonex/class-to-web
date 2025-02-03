@@ -40,3 +40,16 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Backend specific
+/backend/node_modules
+/backend/dist
+/backend/tmp
+/backend/out-tsc
+
+# Frontend specific
+/angular-frontend/node_modules
+/angular-frontend/dist
+/angular-frontend/tmp
+/angular-frontend/out-tsc
+
