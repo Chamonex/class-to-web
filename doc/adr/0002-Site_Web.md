@@ -6,7 +6,7 @@ Work in Progress
 
 ## Context
 
-A primeira parte do projeto é fazer um web site em que o usuário possa fazer upload de pdfs e imagens.
+A primeira parte do projeto é fazer um web site em que o usuário possa fazer upload de texto.
 
 Preciso decidir quais tecnologias utilizar nesse site para:
 
@@ -37,10 +37,6 @@ Apenas uma tela com a opção de upload.
 
 ## Decision
 
-Estarei testando o site utilizando **Angular** e o módulo **file-drop**
+Estarei testando o site utilizando **Angular** para fazer o frontend.
 
 ## Consequences
-
-## Alternatives Considered
-
-## References

@@ -1,7 +1,8 @@
 # ADR 0000: Title of the Decision
 
 ## Status
-Work in Progress
+
+Accepted
 
 ## Context
 

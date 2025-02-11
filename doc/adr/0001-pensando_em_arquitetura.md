@@ -12,14 +12,13 @@ Tenho a ideia da aplicação, e quero organizar os componentes para começar a p
 
 Inicialmente, penso nos seguintes componentes para a aplicação:
 
-1. Site WEB para os usuários fazerem o upload dos arquivos pdf, png ou jpeg.
+1. Site WEB para os usuários fazerem o upload dos arquivos txt / markdown.
     - Os arquivos devem ir para algum lugar dentre as opções:
         1. Cloud Storage (inicialmente pensando no Google Filestore API)
         2. Banco de Dados
         3. Servidor
 
-2. Aplicação de servidor que importe os arquivos enviados e envie para uma aplicação ORC para extrair o texto dos arquivos.
-   - ORC: Inicialmente pensando no [Google Cloud Vision API](https://cloud.google.com/vision/docs?hl=pt-br)
+2. Aplicação de servidor que gera um website com o conteúdo enviado.
 
 ## Consequences
 
